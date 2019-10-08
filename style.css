@@ -1,0 +1,13 @@
+td,
+th {
+    padding: 10px;
+}
+
+th[scope="col"] {
+    background-color: #696969;
+    color: #fff;
+}
+
+th[scope="row"] {
+	background-color: #ebebeb;
+}
