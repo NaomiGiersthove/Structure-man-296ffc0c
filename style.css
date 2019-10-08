@@ -12,6 +12,11 @@ th[scope="row"] {
 	background-color: #ebebeb;
 }
 
+a{
+	color: white;
+	text-decoration: none;
+}
+
 
 
 git add -A && git commit -am "Uitwerking van de exercise" && git push
