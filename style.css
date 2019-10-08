@@ -3,7 +3,7 @@ th {
     padding: 10px;
 }
 
-th[scope="col"] {
+td[scope="col"] {
     background-color: #696969;
     color: #fff;
 }
@@ -11,3 +11,7 @@ th[scope="col"] {
 th[scope="row"] {
 	background-color: #ebebeb;
 }
+
+
+
+git add -A && git commit -am "Uitwerking van de exercise" && git push
